@@ -1,1 +1,14 @@
+requests>=2.28.0
+colorama>=0.4.4
+tqdm>=4.64.0
+pyfiglet>=0.8.0
+phonenumbers>=8.12.0
+beautifulsoup4>=4.11.0
+scapy>=2.4.5
+python-nmap>=0.7.1
+cryptography>=3.4.8
+paramiko>=2.11.0
+urllib3>=1.26.0
+html5lib>=1.1
+mechanize>=0.4.8
 
