@@ -1,0 +1,19 @@
+{
+    "version": "2.0",
+    "author": "Mr Dire",
+    "first_run": true,
+    "theme": "default",
+    "auto_update": true,
+    "save_logs": true,
+    "default_output_dir": "output",
+    "wordlist_dir": "wordlists",
+    "timeout": 30,
+    "threads": 100,
+    "user_agent": "DIRE-X/2.0",
+    "proxy": null,
+    "api_keys": {
+        "shodan": "",
+        "censys": "",
+        "virustotal": ""
+    }
+}
