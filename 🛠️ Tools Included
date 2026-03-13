@@ -1,0 +1,21 @@
+#	Tool	Description	Category	
+01	DIRE-INFO	System & Network Information Gathering	Reconnaissance	
+02	DIRE-SCAN	Advanced Port Scanner	Scanning	
+03	DIRE-BRUTE	Brute Force Attack Framework	Exploitation	
+04	DIRE-SQL	SQL Injection Scanner	Web Security	
+05	DIRE-XSS	Cross-Site Scripting Scanner	Web Security	
+06	DIRE-PHISH	Phishing Page Generator	Social Engineering	
+07	DIRE-DDOS	DDoS Tool (Educational)	Network	
+08	DIRE-ANON	Anonymity & Proxy Checker	Privacy	
+09	DIRE-WIFI	WiFi Security Auditor	Wireless	
+10	DIRE-MAL	Malware Analysis Tool	Forensics	
+11	DIRE-CRYPTO	Encryption/Decryption Suite	Cryptography	
+12	DIRE-OSINT	Open Source Intelligence	Reconnaissance	
+13	DIRE-EXPLOIT	Exploit Search & Framework	Exploitation	
+14	DIRE-WEB	Web Application Scanner	Web Security	
+15	DIRE-SOCIAL	Social Engineering Toolkit	Social Engineering	
+16	DIRE-CAM	Camera Security Scanner	IoT Security	
+17	DIRE-REPORT	Pentest Report Generator	Reporting	
+18	DIRE-UPDATE	System Updater	Utility	
+19	DIRE-BACKUP	Data Backup & Restore	Utility	
+20	DIRE-HELP	Documentation & Help	Utility	
