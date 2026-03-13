@@ -11,10 +11,10 @@
 ║     ██████╔╝██║██║  ██║███████╗    ██╔╝ ██╗                    ║
 ║     ╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝                    ║
 ║                                                                ║
-║           ⚡ ADVANCED CYBERSECURITY TOOLKIT ⚡                 ║
+║            ADVANCED CYBERSECURITY TOOLKIT                  ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
-            🔥 Developed by Mr Dire 🔥
+             Developed by Mr Dire 
 """
 
 import os
