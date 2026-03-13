@@ -18,7 +18,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/atifdire-boop/DIRE-X.git
+git clone https://github.com/atifdire-boop/-DIRE-X.git
 
 # Navigate to directory
 cd DIRE-X
